@@ -3,7 +3,7 @@
 #include <locale.h>
 int main(){
 
-//Vari·veis
+//Vari√°veis
 float kg;
 float m;
 float R;
@@ -17,17 +17,17 @@ scanf("%f",&kg);
 printf("Digite sua altura em Metros: ");
 scanf("%f",&m);
 
-//Processamento e SaÌda 
+//Processamento e Sa√≠da 
 R=kg/(m*m);
 
 if (R<=18.5){
-	printf("VocÍ est· abaixo do peso normal!");}
+	printf("Voc√™ est√° abaixo do peso normal!");}
 
 else if (R<=25){
-	printf("VocÍ est· no peso normal.");}
+	printf("Voc√™ est√° no peso normal.");}
 
 else if (R<30.1 ){
-	printf("VocÍ est· acima do peso normal.");}
+	printf("Voc√™ est√° acima do peso normal.");}
 
 else {
 	printf("Obesidade!");}
