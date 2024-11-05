@@ -1,2 +1,2 @@
 # Learning About language C
-Calculato and Body Mass Index.
+Calculator and Body Mass Index.
